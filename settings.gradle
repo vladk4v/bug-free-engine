@@ -1,0 +1,4 @@
+rootProject.name = 'Network'
+include 'second_task'
+include 'first_task'
+
